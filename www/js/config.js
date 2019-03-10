@@ -3,5 +3,5 @@ var krms_config ={
 	'DialogDefaultTitle':"KMRS",	
 	'pushNotificationSenderid':"",	
 	'facebookAppId':"", 
-	'APIHasKey':"2b0926cd0759663bca9051fca11a619e"
+	'APIHasKey':"bc0366d2495f330329ba4004323b0b79"
 };
