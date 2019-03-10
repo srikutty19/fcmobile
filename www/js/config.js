@@ -1,5 +1,5 @@
 var krms_config ={			
-	'ApiUrl':"http://foodieschoice.tk/mobileapp/api",	
+	'ApiUrl':"http://rapidtest.ga/restomulti/mobileapp/api",	
 	'DialogDefaultTitle':"KMRS",	
 	'pushNotificationSenderid':"",	
 	'facebookAppId':"", 
